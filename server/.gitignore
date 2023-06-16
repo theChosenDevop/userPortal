@@ -1,2 +1,2 @@
-node_modules
+/userPortal/server/node_modules
 .env
